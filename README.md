@@ -5,7 +5,8 @@ This project explores the reviews from the top five energy companies in the UK. 
 - E.on
 - EDF Energy
 - and Npower
-The concepts utilized for this project include:
+
+ The concepts utilized for this project include:
 - Data Cleaning and Transformation
 - Sentiment Analysis
 - Topic Modelling
